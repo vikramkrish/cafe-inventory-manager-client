@@ -1,3 +1,8 @@
+This repository holds the client side code of the Cafe Inventory Management.
+
+After checking out this project from GitHub, you need to execute `npm install` command to download the necessary node files, and it will downloaded and placed under your project directory with the folder name `node_modules`.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
